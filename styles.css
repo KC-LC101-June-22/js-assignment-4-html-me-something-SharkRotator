@@ -1,1 +1,31 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: whitesmoke;
+}
+
+#mainHeading{
+    color:red;
+    text-align:center
+}
+
+#testP{
+    color:green
+}
+
+.centerList{
+    list-style-type: none
+}
+
+.footer-link{
+    padding:20px
+}
+
+article{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    
+}
